@@ -1,4 +1,3 @@
-Here's the formatted content for your README file on GitHub:
 
 ---
 
@@ -77,4 +76,8 @@ Ensure your Docker engine is running.
 
 ---
 
-This README provides clear and concise instructions for setting up and running your project using either a local Python virtual environment or Docker.
+Postman Collection
+You can test the API endpoints using the provided Postman collection. Import the collection using the API URL:
+will provie the collection link in mail itself
+
+```
