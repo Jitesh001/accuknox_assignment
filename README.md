@@ -8,17 +8,17 @@ Here's the formatted content for your README file on GitHub:
 
 1. **Clone the repository**:
    ```sh
-   git clone <repo_url with .git extension>
+   git clone https://github.com/Jitesh001/accuknox_assignment.git
    ```
 
 2. **Navigate to the repository folder**:
    ```sh
-   cd <repo_name>
+   cd accuknox_assignment
    ```
 
 3. **Navigate to the Django project folder**:
    ```sh
-   cd <django_project_name>
+   cd social_network
    ```
 
 ## Method 1: Running the Project on a Local Machine with Python Virtual Environment
