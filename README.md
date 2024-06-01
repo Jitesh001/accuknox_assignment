@@ -76,6 +76,11 @@ Ensure your Docker engine is running.
 
 ---
 
+Admin Creds for above Django App, so you can access admin panel
+email - accunox@gmail.com
+pwd - Jitesh@3456
+
+
 Postman Collection
 You can test the API endpoints using the provided Postman collection. Import the collection using the API URL:
 will provie the collection link in mail itself
